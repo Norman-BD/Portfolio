@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on LimJing</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Projects on LimJing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1</title>
+      <link>https://example.com/post/project-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-01/</guid>
+      <description>Weather has a great impact in the agriculture industry where crops need the basics of moisture, warmth, and sun to growth. Weather information will effect farmer’s business decisions, plan efficiently, minimize costs and maximize the production of yields .
+In this project, I used scikit-learn to train the model and matplotlib to visualize the result
+ I preprocess the data to make sure that every data will be the correct format to fit the training model.</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://example.com/post/project-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-02/</guid>
+      <description>Price volatility is an unexpected price fluctuations that are so large and rapid that it becomes impossible to make expectations where the farmer might produces less and postpones their production. Therefore, it is important to analyze the market based on its characteristics and current market trends
+In this project, I used 13 libraries such as sklearn, xgboost, lightgbm and catboost to train the model.
+ I start preprocessing the data by using binary encoding to make sure all the float data convert to binary number ( 0 &amp;amp; 1 ) Use one-hot encoding to transform the categorical data to be integer data (more expressive) to train the model.</description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://example.com/post/project-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-03/</guid>
+      <description>Choosing a right shipment for supply chain is important as it avoid any delay in production. Even in agribusiness industry,the timing is an important parameter in the case of agriculture crops were taken under formulation.
+In this project, I used neuron network from scikit-learn library to train the model and use confusssion matrik to plot the result.
+ Preprocesasing the datasets to be an understandable format for a machine to training Convert &amp;ldquo;Air&amp;rdquo;, &amp;ldquo;Truck&amp;rdquo;, &amp;ldquo;Air Chater&amp;rdquo;, &amp;ldquo;Ocean&amp;rdquo; to numberic value Use one-hot encoding to rescale the data Slpit the pre-processed datasets to X and Y Train the model with batch_size=32 and epochs=100  The confusion matrix graph shows the result of the model.</description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>https://example.com/post/project-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-04/</guid>
+      <description>When dealing with large amount of data, a well-organized data will be well processed by machine. Properly formatted and validated data improves data quality and protects applications from potential landmines such as null values, unexpected duplicates, incorrect indexing, and incompatible formats.
+In this project, I used pandas library from Python to transform the data that makes it easier to manage and use a variety of data.
+ The raw datasets was horizontal before transforming, which will be not adequate for linear models Transform the format of datasets to be vertical form Dataset before transforming : Horizontal Dataset Dataset after transforming : Vertical Dataset  The output of the dataset were verticalized  View My Code In Github</description>
+    </item>
+    
+    <item>
+      <title>Project 5</title>
+      <link>https://example.com/post/project-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-05/</guid>
+      <description>A dashboard offers business better visibility to effectively manage stock, maintain optimal inventory levels, and optimize inventory turn in real-time. It makes agricultural production pattern accessible to the detail of agricultural parcel and farmer.
+In this project, I create a dashboard for Inventory Management using PowerBI. There were some chart that displayed on the dashboard interface :
+ ABC Classification : Categories based on cost per unit and quantity of stock XYZ Classification : Classified with the demand variation Inventory Turnover Ratio : The ratio of inventories were sold and replaced Reorder Level : The point that optimize business inventory Stock Status : Displayed the stock level   &amp;ldquo;&amp;ldquo;Dashboard unable to publish to web as my account is not able to embed code creation.</description>
+    </item>
+    
+    <item>
+      <title>Project 6</title>
+      <link>https://example.com/post/project-06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-06/</guid>
+      <description>An Exploratory Data Analysis &amp;lsquo;EDA&amp;rsquo; is a technique to discover the underlying structure of a data set and it allows business to exposes trends, patterns, and relationships that are not readily apparent from the datasets.
+In this project, I used Plotly Express library to plot all the possible insight from the dataset
+ I restructured the data so that it able to plot the way that illustrate relationships in the data  The table shown were the graph that initial state with month and date of the year.</description>
+    </item>
+    
+    <item>
+      <title>Project 7</title>
+      <link>https://example.com/post/project-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-07/</guid>
+      <description>A Principal Component Analysis &amp;lsquo;PCA&amp;rsquo; interpret data that might find important patterns from the dataset as it simplifies the complexity in high-dimensional data while retaining trends and patterns.
+In this project, I compress the demensional of the data so that it able to find new variables in the linear funtions
+ Prepocess the data Using standard scaler fuction from sklearn to remove the mean and scaling to unit variance  View My Code In Github</description>
+    </item>
+    
+  </channel>
+</rss>
